@@ -70,7 +70,7 @@ function Home() {
                 </div>
               </div>
             </div>
-            <div>
+            <div className="m-auto">
               <img src={MiddleBar} alt="" />
             </div>
             <div className="flex flex-col space-y-4">
@@ -100,7 +100,7 @@ function Home() {
                 </div>
               </div>
             </div>
-            <div>
+            <div className="m-auto">
               <img src={MiddleBar} alt="" />
             </div>
           </div>
